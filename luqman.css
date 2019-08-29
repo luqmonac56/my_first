@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: cursive;
+    padding: 0;
+    color: rgb(211, 234, 235);
+   
+}
+.all{
+    background: linear-gradient(-45deg, rgba(20, 142, 173, 0.952) ,rgba(20,142,173,0.91),rgba(20, 142, 173, 0.952) ,rgba(119,23,193,1)), url(sheldon.jpg) 20%;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-position: center;
+    width: 100%;
+
+}
+p{
+   font-weight: bold;
+}
+.headin{
+    color: rgba(105, 180, 214, 0.795)
+}
+.edu{
+    display: flex;
+}
+.same{
+    justify-content: center;
+    align-content: center;
+    flex: 1;
+}
